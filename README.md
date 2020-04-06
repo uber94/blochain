@@ -7,7 +7,7 @@ II. Network architecture
 
 III Facilities 
 
-III.1 Setting up the Ethereum blockade 
+III.1 Setting up the Ethereum blochchain
 
 III.2) Adding a new node to the network
 
